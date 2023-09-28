@@ -31,16 +31,6 @@ break;
 }
 }
 *h = NULL;
-r
-e
-t
-u
-r
-n
-(
-l
-e
-n
-)
-;
+
+return (len);
 }
